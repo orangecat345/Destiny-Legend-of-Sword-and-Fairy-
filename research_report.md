@@ -7,7 +7,7 @@
 
 | 项目 | 结果 |
 | --- | --- |
-| 仓库路径 | `/workspace/Destiny-Legend-of-Sword-and-Fairy-` |
+| 仓库路径 | 克隆后的仓库根目录 |
 | 已有文件 | `README.md`、`research_report.md` |
 | 本地原版 RPG Maker 工程 | 未发现 |
 | 本地剧本/攻略/设计文档 | 未发现独立文件，仅 README 中有“holiday 天问剧本”贴吧链接 |
@@ -26,7 +26,7 @@
 | 体量线索 | 早期整理称“一个约 120M、一个 43M”；后续硬盘版下载页标称 794.0M | 新浪博客同人游戏集合、乐游下载页 |
 | 故事时点 | 《仙剑奇侠传二》结局八年之后 | 新浪博客、攻略页、下载页均有相同描述 |
 | 性质 | 仙剑二后传/同人 RPG；不是大宇官方正传 | 百度知道版本分类把官方作品和“续传、后传、个人传”分开 |
-| 仓库 README 现有外链 | “holiday 天问剧本”贴吧帖：`https://tieba.baidu.com/p/6534400092?...` | README.md |
+| 仓库 README 现有外链 | “holiday 天问剧本”贴吧帖：<https://tieba.baidu.com/p/6534400092?&share=9105&fr=sharewise&is_video=false&unique=2575C98E1E79FACAAEEC280AD1E6CE6F&st=1741976353&client_type=1&client_version=12.79.1.0&sfc=copy&share_from=post> | README.md |
 
 ## 3. 外部资料索引
 
@@ -34,28 +34,28 @@
 
 | 链接 | 可用信息 | 复刻价值 | 风险/备注 |
 | --- | --- | --- | --- |
-| `https://www.962.net/rpg/394.html` | 标题为“仙剑奇侠传续传宿命篇硬盘版”，页面摘要含配置、游戏介绍、人物介绍、4 张截图、下载入口；标称大小 794.0M。 | 可用于确认剧情设定、角色设定、截图风格和运行环境。 | 第三方下载站；下载文件需自行做安全扫描；本仓库不提交本体。 |
-| `https://ojpal.com/thread-1672-1-1.html` | 橘汁仙剑网下载帖，摘要列出“仙剑续传宿命篇是仙剑2的后传”、人物属性/武器/技能和开篇设定。 | 可用于角色属性、技能名、开场设定整理。 | 站点抓取不稳定；应优先保存网页快照/截图而非搬运文件。 |
-| `https://tiexuedanxin.net/thread-39694-1-1.html` | “原创游戏仙剑续传(holiday)”讨论/下载帖，摘要包含玩家对剧情、人物延续、隐藏结局与主题的评价。 | 可用于判断剧情主题和角色塑造重点。 | 论坛页编码/访问不稳定；需人工复核全文。 |
-| `https://zhidao.baidu.com/question/9246038.html` | 2006 年问答中给出原 palunion 下载帖链接、攻略全文与早期下载站链接。 | 最重要的流程攻略和支线资料来源之一。 | 原下载链接多半失效；攻略可作为复刻流程骨架。 |
-| `https://blog.sina.com.cn/s/blog_516657e1010096n7.html` | 2008 年同人游戏集合，记录作者 holiday、容量、制作日期和一句剧情介绍。 | 可用于确认项目身份和年代。 | 只是目录型二手整理，不含完整工程。 |
+| <https://www.962.net/rpg/394.html> | 标题为“仙剑奇侠传续传宿命篇硬盘版”，页面摘要含配置、游戏介绍、人物介绍、4 张截图、下载入口；标称大小 794.0M。 | 可用于确认剧情设定、角色设定、截图风格和运行环境。 | 第三方下载站；下载文件需自行做安全扫描；本仓库不提交本体。 |
+| <https://ojpal.com/thread-1672-1-1.html> | 橘汁仙剑网下载帖，摘要列出“仙剑续传宿命篇是仙剑2的后传”、人物属性/武器/技能和开篇设定。 | 可用于角色属性、技能名、开场设定整理。 | 站点抓取不稳定；应优先保存网页快照/截图而非搬运文件。 |
+| <https://tiexuedanxin.net/thread-39694-1-1.html> | “原创游戏仙剑续传(holiday)”讨论/下载帖，摘要包含玩家对剧情、人物延续、隐藏结局与主题的评价。 | 可用于判断剧情主题和角色塑造重点。 | 论坛页编码/访问不稳定；需人工复核全文。 |
+| <https://zhidao.baidu.com/question/9246038.html> | 2006 年问答中给出原 palunion 下载帖链接、攻略全文与早期下载站链接。 | 最重要的流程攻略和支线资料来源之一。 | 原下载链接多半失效；攻略可作为复刻流程骨架。 |
+| <https://blog.sina.com.cn/s/blog_516657e1010096n7.html> | 2008 年同人游戏集合，记录作者 holiday、容量、制作日期和一句剧情介绍。 | 可用于确认项目身份和年代。 | 只是目录型二手整理，不含完整工程。 |
 
 ### 3.2 攻略 / 剧情资料线索
 
 | 链接 | 内容覆盖 | 复刻价值 |
 | --- | --- | --- |
-| `https://zhidao.baidu.com/question/9246038.html` | 完整流程攻略：七章主线、支线、隐藏结局条件、无字天书、装备隐藏属性。 | 可拆成 UE 复刻任务树、关卡列表、敌人/道具/支线触发条件。 |
-| `https://www.duote.com/tech/2/4045.html` | “仙剑奇侠传续传宿命篇攻略”图文教程，搜索摘要与百度攻略高度重合。 | 可作为攻略备份源，核对章节和地名。 |
-| `https://zhidao.baidu.com/question/217280305.html` | 存档点列表，含等级、地点、BOSS 战、隐藏结局前置。 | 可用于验证流程节奏、关卡进度和关键战斗顺序。 |
-| `https://tieba.baidu.com/p/6534400092?...` | README 记录为“holiday 天问剧本”。 | 疑似续篇/后续剧本《天问篇》线索；需登录/人工抓取后再纳入。 |
+| <https://zhidao.baidu.com/question/9246038.html> | 完整流程攻略：七章主线、支线、隐藏结局条件、无字天书、装备隐藏属性。 | 可拆成 UE 复刻任务树、关卡列表、敌人/道具/支线触发条件。 |
+| <https://www.duote.com/tech/2/4045.html> | “仙剑奇侠传续传宿命篇攻略”图文教程，搜索摘要与百度攻略高度重合。 | 可作为攻略备份源，核对章节和地名。 |
+| <https://zhidao.baidu.com/question/217280305.html> | 存档点列表，含等级、地点、BOSS 战、隐藏结局前置。 | 可用于验证流程节奏、关卡进度和关键战斗顺序。 |
+| <https://tieba.baidu.com/p/6534400092?&share=9105&fr=sharewise&is_video=false&unique=2575C98E1E79FACAAEEC280AD1E6CE6F&st=1741976353&client_type=1&client_version=12.79.1.0&sfc=copy&share_from=post> | README 记录为“holiday 天问剧本”。 | 疑似续篇/后续剧本《天问篇》线索；需登录/人工抓取后再纳入。 |
 
 ### 3.3 美术资源 / 截图线索
 
 | 链接 | 可用内容 | 复刻价值 |
 | --- | --- | --- |
-| `https://www.962.net/rpg/394.html` | 下载页显示 4 张游戏截图条目。 | 可提取 UI、地图、人物行走图与战斗画面的视觉参考，但不要直接搬运商业素材。 |
-| `https://ojpal.com/thread-1672-1-1.html` | 论坛下载帖可能包含封面/截图/附件。 | 可人工截图留档，用作视觉风格参考。 |
-| `https://blog.sina.com.cn/s/blog_516657e1010096n7.html` | 对画面有评价：“画面不怎么样，但剧情超赞”，说明其视觉可能更接近早期 RM2003 同人作品。 | 复刻时可优先还原剧情与流程，画面可重新制作。 |
+| <https://www.962.net/rpg/394.html> | 下载页显示 4 张游戏截图条目。 | 可提取 UI、地图、人物行走图与战斗画面的视觉参考，但不要直接搬运商业素材。 |
+| <https://ojpal.com/thread-1672-1-1.html> | 论坛下载帖可能包含封面/截图/附件。 | 可人工截图留档，用作视觉风格参考。 |
+| <https://blog.sina.com.cn/s/blog_516657e1010096n7.html> | 对画面有评价：“画面不怎么样，但剧情超赞”，说明其视觉可能更接近早期 RM2003 同人作品。 | 复刻时可优先还原剧情与流程，画面可重新制作。 |
 
 ## 4. 剧本与剧情结构梳理
 
@@ -181,12 +181,12 @@
 
 ## 9. 来源链接
 
-- 新浪博客：《仙剑相关同人游戏作品大集合》：`https://blog.sina.com.cn/s/blog_516657e1010096n7.html`
-- 百度知道：《仙剑奇侠传，版本?》：`https://zhidao.baidu.com/question/69357552.html`
-- 百度知道：《仙剑续传宿命篇下载?还要攻略》：`https://zhidao.baidu.com/question/9246038.html`
-- 百度知道：《请问你可以给我一份 仙剑奇侠传续传宿命篇的存档吗?》：`https://zhidao.baidu.com/question/217280305.html`
-- 乐游网：《仙剑奇侠传续传宿命篇硬盘版》：`https://www.962.net/rpg/394.html`
-- 橘汁仙剑网：《仙剑续传宿命篇》下载帖：`https://ojpal.com/thread-1672-1-1.html`
-- 铁血丹心：《原创游戏仙剑续传(holiday)》：`https://tiexuedanxin.net/thread-39694-1-1.html`
-- 多特图文教程：《仙剑奇侠传续传宿命篇攻略》：`https://www.duote.com/tech/2/4045.html`
-- README 记录的“holiday 天问剧本”贴吧链接：`https://tieba.baidu.com/p/6534400092?&share=9105&fr=sharewise&is_video=false&unique=2575C98E1E79FACAAEEC280AD1E6CE6F&st=1741976353&client_type=1&client_version=12.79.1.0&sfc=copy&share_from=post`
+- 新浪博客：《仙剑相关同人游戏作品大集合》：<https://blog.sina.com.cn/s/blog_516657e1010096n7.html>
+- 百度知道：《仙剑奇侠传，版本?》：<https://zhidao.baidu.com/question/69357552.html>
+- 百度知道：《仙剑续传宿命篇下载?还要攻略》：<https://zhidao.baidu.com/question/9246038.html>
+- 百度知道：《请问你可以给我一份 仙剑奇侠传续传宿命篇的存档吗?》：<https://zhidao.baidu.com/question/217280305.html>
+- 乐游网：《仙剑奇侠传续传宿命篇硬盘版》：<https://www.962.net/rpg/394.html>
+- 橘汁仙剑网：《仙剑续传宿命篇》下载帖：<https://ojpal.com/thread-1672-1-1.html>
+- 铁血丹心：《原创游戏仙剑续传(holiday)》：<https://tiexuedanxin.net/thread-39694-1-1.html>
+- 多特图文教程：《仙剑奇侠传续传宿命篇攻略》：<https://www.duote.com/tech/2/4045.html>
+- README 记录的“holiday 天问剧本”贴吧链接：<https://tieba.baidu.com/p/6534400092?&share=9105&fr=sharewise&is_video=false&unique=2575C98E1E79FACAAEEC280AD1E6CE6F&st=1741976353&client_type=1&client_version=12.79.1.0&sfc=copy&share_from=post>
