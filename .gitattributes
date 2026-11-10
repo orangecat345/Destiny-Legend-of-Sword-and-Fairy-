@@ -1,0 +1,4 @@
+original/game/** -text
+research/suming/*.csv -text
+research/suming/dialogue.csv -whitespace
+research/suming/items.csv -whitespace

@@ -1,0 +1,6377 @@
+{
+  "source": "event_pages.jsonl",
+  "locations_are_1_based": true,
+  "pages": [
+    {
+      "location": "Map0262/Event0011/Page0001",
+      "map_id": 262,
+      "map_name": "6",
+      "event_name": "EV0011",
+      "x": 10,
+      "y": 1,
+      "trigger": 3,
+      "condition": {
+        "switch_a": 418
+      },
+      "commands": [
+        {
+          "index": 1,
+          "code": 11510,
+          "name": "PlayBGM",
+          "indent": 0,
+          "parameters": [
+            0,
+            100,
+            100,
+            50
+          ],
+          "text": "Clip16"
+        },
+        {
+          "index": 2,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            4,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 3,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 4,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "混蛋，我要你知道自己做了什么！"
+        },
+        {
+          "index": 5,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 6,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "火凤："
+        },
+        {
+          "index": 7,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "凡夫俗子，竟敢冒犯神兽！"
+        },
+        {
+          "index": 8,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            4,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 9,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 10,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "凡夫俗子？就让你见识一下凡夫俗子的厉害"
+        },
+        {
+          "index": 11,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "吧！"
+        },
+        {
+          "index": 12,
+          "code": 10660,
+          "name": "ChangeSystemBGM",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            100,
+            100,
+            50
+          ],
+          "text": "逆天而行"
+        },
+        {
+          "index": 13,
+          "code": 10710,
+          "name": "EnemyEncounter",
+          "indent": 0,
+          "parameters": [
+            0,
+            213,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "text": "sky"
+        },
+        {
+          "index": 14,
+          "code": 10660,
+          "name": "ChangeSystemBGM",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            100,
+            100,
+            50
+          ],
+          "text": "仗劍變調"
+        },
+        {
+          "index": 15,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 16,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "火凤："
+        },
+        {
+          "index": 17,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "我——我一定要保住天莲圣草，为了我的妻子。"
+        },
+        {
+          "index": 18,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            8,
+            8,
+            0,
+            0,
+            12
+          ],
+          "text": ""
+        },
+        {
+          "index": 19,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "雌凤："
+        },
+        {
+          "index": 20,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "……把圣草给他吧……"
+        },
+        {
+          "index": 21,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "火凤："
+        },
+        {
+          "index": 22,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "不行……圣草百年只有一株，是天赐予我族的灵丹妙药…"
+        },
+        {
+          "index": 23,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "…"
+        },
+        {
+          "index": 24,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            4,
+            1,
+            1
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 25,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 26,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "草药对我已经没用处了！"
+        },
+        {
+          "index": 27,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 28,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "我不是来取草药的，我来取你们的性命！"
+        },
+        {
+          "index": 29,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            1,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 30,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "火凤："
+        },
+        {
+          "index": 31,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "为什么！我取回上天赐赐予的圣草，医治我的妻子，这难"
+        },
+        {
+          "index": 32,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "道有错吗？"
+        },
+        {
+          "index": 33,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            4,
+            1,
+            1
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 34,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 35,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "你没错，我也没错，错的是天。但你们必须"
+        },
+        {
+          "index": 36,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "死！"
+        },
+        {
+          "index": 37,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 38,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "受死吧！"
+        },
+        {
+          "index": 39,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            1,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 40,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "住手——————"
+        },
+        {
+          "index": 41,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            13
+          ],
+          "text": ""
+        },
+        {
+          "index": 42,
+          "code": 11010,
+          "name": "EraseScreen",
+          "indent": 0,
+          "parameters": [
+            19
+          ],
+          "text": ""
+        },
+        {
+          "index": 43,
+          "code": 10210,
+          "name": "ControlSwitches",
+          "indent": 0,
+          "parameters": [
+            0,
+            419,
+            419,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 44,
+          "code": 11020,
+          "name": "ShowScreen",
+          "indent": 0,
+          "parameters": [
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 45,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            4,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 46,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 47,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "姐？！！"
+        },
+        {
+          "index": 48,
+          "code": 11520,
+          "name": "FadeOutBGM",
+          "indent": 0,
+          "parameters": [
+            5000
+          ],
+          "text": ""
+        },
+        {
+          "index": 49,
+          "code": 11030,
+          "name": "TintScreen",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            0,
+            0,
+            20,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 50,
+          "code": 10330,
+          "name": "ChangePartyMembers",
+          "indent": 0,
+          "parameters": [
+            1,
+            0,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 51,
+          "code": 10330,
+          "name": "ChangePartyMembers",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            2
+          ],
+          "text": ""
+        },
+        {
+          "index": 52,
+          "code": 11070,
+          "name": "WeatherEffects",
+          "indent": 0,
+          "parameters": [
+            0,
+            2
+          ],
+          "text": ""
+        },
+        {
+          "index": 53,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            20,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 54,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 55,
+          "code": 10120,
+          "name": "MessageOptions",
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 56,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "      为什么，为什么小灵会突然变得如此残忍？"
+        },
+        {
+          "index": 57,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "                    为什么！！"
+        },
+        {
+          "index": 58,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "    他还是我最爱的弟弟——那个孩子——小灵吗？"
+        },
+        {
+          "index": 59,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            20,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 60,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "    不知为何，我常常会想起小时候的小灵，那个在"
+        },
+        {
+          "index": 61,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "   酒馆中替我解围，小小年纪却侠肝义胆的小灵……"
+        },
+        {
+          "index": 62,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "   现在的小灵，却常常令我感到莫名其妙的恐惧……"
+        },
+        {
+          "index": 63,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 64,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "                  为什么呢……"
+        },
+        {
+          "index": 65,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            20,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 66,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "  太久了，我也已经记不得灵哥哥小时候的样子了……"
+        },
+        {
+          "index": 67,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "         但我知道，决不是现在这个样子……"
+        },
+        {
+          "index": 68,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "        灵哥哥，你到底在想些什么呢……"
+        },
+        {
+          "index": 69,
+          "code": 10120,
+          "name": "MessageOptions",
+          "indent": 0,
+          "parameters": [
+            0,
+            2,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 70,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 71,
+          "code": 12010,
+          "name": "ConditionalBranch",
+          "indent": 0,
+          "parameters": [
+            1,
+            81,
+            0,
+            12,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 72,
+          "code": 12010,
+          "name": "ConditionalBranch",
+          "indent": 1,
+          "parameters": [
+            0,
+            961,
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 73,
+          "code": 10210,
+          "name": "ControlSwitches",
+          "indent": 2,
+          "parameters": [
+            0,
+            994,
+            994,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 74,
+          "code": 10,
+          "name": "END",
+          "indent": 2,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 75,
+          "code": 22011,
+          "name": "EndBranch",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 76,
+          "code": 10,
+          "name": "END",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 77,
+          "code": 22011,
+          "name": "EndBranch",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 78,
+          "code": 12010,
+          "name": "ConditionalBranch",
+          "indent": 0,
+          "parameters": [
+            0,
+            994,
+            0,
+            0,
+            0,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 79,
+          "code": 10810,
+          "name": "Teleport",
+          "indent": 1,
+          "parameters": [
+            277,
+            10,
+            8,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 80,
+          "code": 11030,
+          "name": "TintScreen",
+          "indent": 1,
+          "parameters": [
+            100,
+            100,
+            100,
+            0,
+            20,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 81,
+          "code": 10,
+          "name": "END",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 82,
+          "code": 22010,
+          "name": "ElseBranch",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 83,
+          "code": 10810,
+          "name": "Teleport",
+          "indent": 1,
+          "parameters": [
+            266,
+            2,
+            4,
+            3
+          ],
+          "text": ""
+        },
+        {
+          "index": 84,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            12,
+            0,
+            1
+          ],
+          "text": "xu"
+        },
+        {
+          "index": 85,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "王飞霞："
+        },
+        {
+          "index": 86,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "灵哥哥，不要离开我！！"
+        },
+        {
+          "index": 87,
+          "code": 11030,
+          "name": "TintScreen",
+          "indent": 1,
+          "parameters": [
+            50,
+            50,
+            50,
+            50,
+            20,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 88,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            5,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 89,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "王飞霞："
+        },
+        {
+          "index": 90,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "…………"
+        },
+        {
+          "index": 91,
+          "code": 11510,
+          "name": "PlayBGM",
+          "indent": 1,
+          "parameters": [
+            0,
+            100,
+            100,
+            50
+          ],
+          "text": "魂萦梦牵"
+        },
+        {
+          "index": 92,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            5,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 93,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "王飞霞："
+        },
+        {
+          "index": 94,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "原来是场梦啊……"
+        },
+        {
+          "index": 95,
+          "code": 10,
+          "name": "END",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 96,
+          "code": 22011,
+          "name": "EndBranch",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        }
+      ]
+    },
+    {
+      "location": "Map0269/Event0002/Page0001",
+      "map_id": 269,
+      "map_name": "洞2",
+      "event_name": "EV0002",
+      "x": 4,
+      "y": 0,
+      "trigger": 1,
+      "condition": {},
+      "commands": [
+        {
+          "index": 1,
+          "code": 11010,
+          "name": "EraseScreen",
+          "indent": 0,
+          "parameters": [
+            -1
+          ],
+          "text": ""
+        },
+        {
+          "index": 2,
+          "code": 12010,
+          "name": "ConditionalBranch",
+          "indent": 0,
+          "parameters": [
+            0,
+            994,
+            0,
+            0,
+            0,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 3,
+          "code": 10810,
+          "name": "Teleport",
+          "indent": 1,
+          "parameters": [
+            284,
+            9,
+            13,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 4,
+          "code": 10660,
+          "name": "ChangeSystemBGM",
+          "indent": 1,
+          "parameters": [
+            0,
+            0,
+            100,
+            100,
+            50
+          ],
+          "text": "5007"
+        },
+        {
+          "index": 5,
+          "code": 10,
+          "name": "END",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 6,
+          "code": 22010,
+          "name": "ElseBranch",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 7,
+          "code": 10810,
+          "name": "Teleport",
+          "indent": 1,
+          "parameters": [
+            291,
+            9,
+            13,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 8,
+          "code": 10,
+          "name": "END",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 9,
+          "code": 22011,
+          "name": "EndBranch",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 10,
+          "code": 11020,
+          "name": "ShowScreen",
+          "indent": 0,
+          "parameters": [
+            -1
+          ],
+          "text": ""
+        }
+      ]
+    },
+    {
+      "location": "Map0272/Event0037/Page0001",
+      "map_id": 272,
+      "map_name": "剑阵",
+      "event_name": "EV0037",
+      "x": 13,
+      "y": 11,
+      "trigger": 0,
+      "condition": {
+        "switch_a": 437
+      },
+      "commands": [
+        {
+          "index": 1,
+          "code": 11010,
+          "name": "EraseScreen",
+          "indent": 0,
+          "parameters": [
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 2,
+          "code": 10210,
+          "name": "ControlSwitches",
+          "indent": 0,
+          "parameters": [
+            0,
+            439,
+            439,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 3,
+          "code": 10810,
+          "name": "Teleport",
+          "indent": 0,
+          "parameters": [
+            272,
+            16,
+            10,
+            4
+          ],
+          "text": ""
+        },
+        {
+          "index": 4,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            5,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 5,
+          "code": 11020,
+          "name": "ShowScreen",
+          "indent": 0,
+          "parameters": [
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 6,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            11,
+            0,
+            1
+          ],
+          "text": "li"
+        },
+        {
+          "index": 7,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李忆如："
+        },
+        {
+          "index": 8,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "大师兄，你醒醒啊……呜呜……"
+        },
+        {
+          "index": 9,
+          "code": 11320,
+          "name": "FlashSprite",
+          "indent": 0,
+          "parameters": [
+            42,
+            0,
+            0,
+            0,
+            31,
+            15,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 10,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            42,
+            8,
+            0,
+            0,
+            34,
+            2,
+            115,
+            115,
+            3
+          ],
+          "text": ""
+        },
+        {
+          "index": 11,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            15,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 12,
+          "code": 11510,
+          "name": "PlayBGM",
+          "indent": 0,
+          "parameters": [
+            0,
+            100,
+            100,
+            50
+          ],
+          "text": "18-紫鴉烏"
+        },
+        {
+          "index": 13,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            12
+          ],
+          "text": ""
+        },
+        {
+          "index": 14,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 15,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            4,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 16,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 17,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "剑魔神！"
+        },
+        {
+          "index": 18,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            43,
+            8,
+            0,
+            0,
+            12
+          ],
+          "text": ""
+        },
+        {
+          "index": 19,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            44,
+            8,
+            0,
+            0,
+            12
+          ],
+          "text": ""
+        },
+        {
+          "index": 20,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            45,
+            8,
+            0,
+            0,
+            12
+          ],
+          "text": ""
+        },
+        {
+          "index": 21,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 22,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 23,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "你竟能逃过一劫？！不过你的法力也被天罡"
+        },
+        {
+          "index": 24,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "之气震散了吧！"
+        },
+        {
+          "index": 25,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            43,
+            8,
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 26,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            44,
+            8,
+            0,
+            0,
+            36,
+            28,
+            1,
+            1,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 27,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 28,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            10,
+            0,
+            1
+          ],
+          "text": "li"
+        },
+        {
+          "index": 29,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李忆如："
+        },
+        {
+          "index": 30,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "为大师兄报仇！"
+        },
+        {
+          "index": 31,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            15,
+            1,
+            0
+          ],
+          "text": "2"
+        },
+        {
+          "index": 32,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "剑魔神："
+        },
+        {
+          "index": 33,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "我……我不会死的……我是魔……我……"
+        },
+        {
+          "index": 34,
+          "code": 10660,
+          "name": "ChangeSystemBGM",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            100,
+            100,
+            50
+          ],
+          "text": "渊停岳峙"
+        },
+        {
+          "index": 35,
+          "code": 10710,
+          "name": "EnemyEncounter",
+          "indent": 0,
+          "parameters": [
+            0,
+            198,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "text": "sky"
+        },
+        {
+          "index": 36,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            15,
+            1,
+            0
+          ],
+          "text": "2"
+        },
+        {
+          "index": 37,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "剑魔神："
+        },
+        {
+          "index": 38,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "……终于还是败了吗……真不甘心……"
+        },
+        {
+          "index": 39,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            4,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 40,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 41,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "受死吧！"
+        },
+        {
+          "index": 42,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 43,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 44,
+          "code": 11210,
+          "name": "ShowBattleAnimation",
+          "indent": 0,
+          "parameters": [
+            129,
+            10001,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 45,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            26,
+            28,
+            24,
+            2,
+            2,
+            2,
+            2,
+            25,
+            27,
+            29
+          ],
+          "text": ""
+        },
+        {
+          "index": 46,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 47,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            4,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 48,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 49,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "啊————"
+        },
+        {
+          "index": 50,
+          "code": 11510,
+          "name": "PlayBGM",
+          "indent": 0,
+          "parameters": [
+            0,
+            100,
+            100,
+            50
+          ],
+          "text": "Xian014"
+        },
+        {
+          "index": 51,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            4,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 52,
+          "code": 10120,
+          "name": "MessageOptions",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 53,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 54,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "你需要我的力量……"
+        },
+        {
+          "index": 55,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "把你的一切交与我吧……"
+        },
+        {
+          "index": 56,
+          "code": 10120,
+          "name": "MessageOptions",
+          "indent": 0,
+          "parameters": [
+            0,
+            2,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 57,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            15,
+            0,
+            0
+          ],
+          "text": "2"
+        },
+        {
+          "index": 58,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "剑魔神："
+        },
+        {
+          "index": 59,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "你……是……？！！！"
+        },
+        {
+          "index": 60,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "剑魔神："
+        },
+        {
+          "index": 61,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "无～相～天～妖！！"
+        },
+        {
+          "index": 62,
+          "code": 10120,
+          "name": "MessageOptions",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 63,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 64,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "交与我吧……"
+        },
+        {
+          "index": 65,
+          "code": 10120,
+          "name": "MessageOptions",
+          "indent": 0,
+          "parameters": [
+            0,
+            2,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 66,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            15,
+            0,
+            0
+          ],
+          "text": "2"
+        },
+        {
+          "index": 67,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "剑魔神："
+        },
+        {
+          "index": 68,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "不——决不——"
+        },
+        {
+          "index": 69,
+          "code": 10120,
+          "name": "MessageOptions",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 70,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 71,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "呵呵，这可由不得你……"
+        },
+        {
+          "index": 72,
+          "code": 10120,
+          "name": "MessageOptions",
+          "indent": 0,
+          "parameters": [
+            0,
+            2,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 73,
+          "code": 11320,
+          "name": "FlashSprite",
+          "indent": 0,
+          "parameters": [
+            42,
+            19,
+            0,
+            0,
+            31,
+            30,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 74,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            42,
+            8,
+            0,
+            0,
+            36,
+            26,
+            38,
+            29,
+            0,
+            0,
+            37
+          ],
+          "text": ""
+        },
+        {
+          "index": 75,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 76,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            42,
+            8,
+            0,
+            0,
+            34,
+            3,
+            48,
+            48,
+            53,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 77,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            30,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 78,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            28,
+            0,
+            0,
+            0,
+            29
+          ],
+          "text": ""
+        },
+        {
+          "index": 79,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 80,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            45,
+            8,
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 81,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 0,
+          "parameters": [
+            44,
+            8,
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 82,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 83,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            4,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 84,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 85,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "你是——无～相～天～妖！"
+        },
+        {
+          "index": 86,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 87,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 88,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "呵呵，老朋友，又见面了。"
+        },
+        {
+          "index": 89,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            10,
+            1,
+            0
+          ],
+          "text": "li"
+        },
+        {
+          "index": 90,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李忆如："
+        },
+        {
+          "index": 91,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "怎么、怎么可能？！"
+        },
+        {
+          "index": 92,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 93,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 94,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "这世间最大的笑话，就是吸收无相天妖的灵力为己所用。"
+        },
+        {
+          "index": 95,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 96,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "这种吞噬一切、毁灭一切的力量，谁有能力拥有？"
+        },
+        {
+          "index": 97,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 98,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "雷刑、剑魔神？他们统统是傻瓜！以为我——无相天妖"
+        },
+        {
+          "index": 99,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "——只是一个没有头脑的蠢物吗？！"
+        },
+        {
+          "index": 100,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 101,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "尤其是雷刑，自以为聪明，其实蠢的要死！他不想想，为"
+        },
+        {
+          "index": 102,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "什么无相天妖总会在他最需要的时候醒来？"
+        },
+        {
+          "index": 103,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 104,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "甚至，为什么他会那么顺利的找到沉睡中的无相天妖？没"
+        },
+        {
+          "index": 105,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "有我的暗中指引，他能吗？"
+        },
+        {
+          "index": 106,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            4,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 107,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 108,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "你想怎么样！"
+        },
+        {
+          "index": 109,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 110,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 111,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "获得最彻底的苏醒，获得最完美的形态！"
+        },
+        {
+          "index": 112,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 113,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "虽然中间出了一些岔子，但剑魔神却刚好挽救了我。"
+        },
+        {
+          "index": 114,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 115,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "若不是他太没用，我本想将这场游戏进行下去的。现在不"
+        },
+        {
+          "index": 116,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "用了。"
+        },
+        {
+          "index": 117,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 118,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "呵呵，吞噬了你们，再吞噬了蜀山，那时就算天帝亲临，"
+        },
+        {
+          "index": 119,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "也不过够做我的点心罢了。"
+        },
+        {
+          "index": 120,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 121,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "武神，千万年前我欲与你合体，你却一刀将我斩为两段，"
+        },
+        {
+          "index": 122,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "更使我永远驻留在妖形态中。"
+        },
+        {
+          "index": 123,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 124,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "所向披靡的斗气与毁灭一切的意志，二者的结合，就是第"
+        },
+        {
+          "index": 125,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "四尊盘古正神了！"
+        },
+        {
+          "index": 126,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 127,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "武神，太古诸神的怒怨，在等着我们，等着我们毁灭这个"
+        },
+        {
+          "index": 128,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "伏羲自以为得意的六界呢！"
+        },
+        {
+          "index": 129,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 130,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "你背叛了神界，伏羲是不会放过你的。与我合体吧！让我"
+        },
+        {
+          "index": 131,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "们一起毁灭这个伏羲主宰下世界……"
+        },
+        {
+          "index": 132,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 133,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "……让它回到混沌的初始，又有什么不好？"
+        },
+        {
+          "index": 134,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            4,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 135,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 136,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "胡说！这里没有什么武神！"
+        },
+        {
+          "index": 137,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 138,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 139,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "呵呵，不敢面对吗？若不是你下界，若不是我感受到了你"
+        },
+        {
+          "index": 140,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "的气息，我又怎么能从沉睡中醒来呢？"
+        },
+        {
+          "index": 141,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 142,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "不过真的想象不到，强大的你，竟然会弱化到这种地步。"
+        },
+        {
+          "index": 143,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 144,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "这也是天意吧，哈哈哈～"
+        },
+        {
+          "index": 145,
+          "code": 10220,
+          "name": "ControlVars",
+          "indent": 0,
+          "parameters": [
+            0,
+            12,
+            12,
+            0,
+            5,
+            2,
+            14
+          ],
+          "text": ""
+        },
+        {
+          "index": 146,
+          "code": 12010,
+          "name": "ConditionalBranch",
+          "indent": 0,
+          "parameters": [
+            1,
+            12,
+            0,
+            177,
+            0,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 147,
+          "code": 10210,
+          "name": "ControlSwitches",
+          "indent": 1,
+          "parameters": [
+            0,
+            443,
+            443,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 148,
+          "code": 10660,
+          "name": "ChangeSystemBGM",
+          "indent": 1,
+          "parameters": [
+            0,
+            0,
+            100,
+            100,
+            50
+          ],
+          "text": "懷刃浴血"
+        },
+        {
+          "index": 149,
+          "code": 10490,
+          "name": "FullHeal",
+          "indent": 1,
+          "parameters": [
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 150,
+          "code": 10710,
+          "name": "EnemyEncounter",
+          "indent": 1,
+          "parameters": [
+            0,
+            224,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "text": "sky"
+        },
+        {
+          "index": 151,
+          "code": 10490,
+          "name": "FullHeal",
+          "indent": 1,
+          "parameters": [
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 152,
+          "code": 11510,
+          "name": "PlayBGM",
+          "indent": 1,
+          "parameters": [
+            0,
+            100,
+            100,
+            50
+          ],
+          "text": "少年行"
+        },
+        {
+          "index": 153,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            42,
+            8,
+            0,
+            0,
+            34,
+            8,
+            109,
+            111,
+            110,
+            115,
+            116,
+            101,
+            114,
+            50,
+            6
+          ],
+          "text": ""
+        },
+        {
+          "index": 154,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            42,
+            8,
+            0,
+            0,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23,
+            40,
+            34,
+            4,
+            82,
+            85,
+            66,
+            89,
+            4
+          ],
+          "text": ""
+        },
+        {
+          "index": 155,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 156,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            4,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 157,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 158,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "都结束了……"
+        },
+        {
+          "index": 159,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            2,
+            14
+          ],
+          "text": ""
+        },
+        {
+          "index": 160,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            4,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 161,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 162,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "爹、娘？你们也来了！"
+        },
+        {
+          "index": 163,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            43,
+            8,
+            0,
+            0,
+            14
+          ],
+          "text": ""
+        },
+        {
+          "index": 164,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            44,
+            8,
+            0,
+            0,
+            14
+          ],
+          "text": ""
+        },
+        {
+          "index": 165,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            45,
+            8,
+            0,
+            0,
+            14
+          ],
+          "text": ""
+        },
+        {
+          "index": 166,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 167,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            14,
+            1,
+            0
+          ],
+          "text": "1"
+        },
+        {
+          "index": 168,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李逍遥："
+        },
+        {
+          "index": 169,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "可惜来晚一步……你们都没事，真是太好了"
+        },
+        {
+          "index": 170,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "！"
+        },
+        {
+          "index": 171,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李逍遥："
+        },
+        {
+          "index": 172,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "云飞？！"
+        },
+        {
+          "index": 173,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            37,
+            8,
+            0,
+            0,
+            34,
+            3,
+            115,
+            115,
+            50,
+            6,
+            13
+          ],
+          "text": ""
+        },
+        {
+          "index": 174,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 175,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            7,
+            0,
+            1
+          ],
+          "text": "0"
+        },
+        {
+          "index": 176,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "蜀云飞："
+        },
+        {
+          "index": 177,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "…………"
+        },
+        {
+          "index": 178,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            0,
+            1,
+            0
+          ],
+          "text": "li"
+        },
+        {
+          "index": 179,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李忆如："
+        },
+        {
+          "index": 180,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "太好了，大师兄，你没事了！真是神奇！"
+        },
+        {
+          "index": 181,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            7,
+            0,
+            1
+          ],
+          "text": "0"
+        },
+        {
+          "index": 182,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "蜀云飞："
+        },
+        {
+          "index": 183,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "……恍惚中……我只觉得……一个女神人…"
+        },
+        {
+          "index": 184,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "…救了我……"
+        },
+        {
+          "index": 185,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            0,
+            1,
+            0
+          ],
+          "text": "li"
+        },
+        {
+          "index": 186,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李忆如："
+        },
+        {
+          "index": 187,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "是呀，多亏了他们……不过他们是谁呢？"
+        },
+        {
+          "index": 188,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            39,
+            23,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23
+          ],
+          "text": ""
+        },
+        {
+          "index": 189,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            45,
+            8,
+            0,
+            0,
+            39,
+            23,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23
+          ],
+          "text": ""
+        },
+        {
+          "index": 190,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 191,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            43,
+            8,
+            0,
+            0,
+            13
+          ],
+          "text": ""
+        },
+        {
+          "index": 192,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 193,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            4,
+            0,
+            1
+          ],
+          "text": "li"
+        },
+        {
+          "index": 194,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李忆如："
+        },
+        {
+          "index": 195,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "呀！小灵、小霞！你们……怎么回事？！"
+        },
+        {
+          "index": 196,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            15
+          ],
+          "text": ""
+        },
+        {
+          "index": 197,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            4,
+            1,
+            1
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 198,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 199,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "因为我们改变了历史——我们存在的理由。"
+        },
+        {
+          "index": 200,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "我们一定会消失。"
+        },
+        {
+          "index": 201,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 202,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "再见了，姐；再见了，爹、娘、徐大哥。另"
+        },
+        {
+          "index": 203,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "一个我，在大理等着你们呢。"
+        },
+        {
+          "index": 204,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 205,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "再见了……"
+        },
+        {
+          "index": 206,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            8,
+            1,
+            0
+          ],
+          "text": "xu"
+        },
+        {
+          "index": 207,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "王飞霞："
+        },
+        {
+          "index": 208,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "再见了……"
+        },
+        {
+          "index": 209,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            45,
+            8,
+            0,
+            0,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23,
+            40,
+            40
+          ],
+          "text": ""
+        },
+        {
+          "index": 210,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23,
+            40,
+            40
+          ],
+          "text": ""
+        },
+        {
+          "index": 211,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 212,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            45,
+            8,
+            0,
+            0,
+            34,
+            4,
+            82,
+            85,
+            66,
+            89,
+            4
+          ],
+          "text": ""
+        },
+        {
+          "index": 213,
+          "code": 11310,
+          "name": "PlayerVisibility",
+          "indent": 1,
+          "parameters": [
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 214,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 215,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            30,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 216,
+          "code": 11030,
+          "name": "TintScreen",
+          "indent": 1,
+          "parameters": [
+            0,
+            0,
+            0,
+            0,
+            40,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 217,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            50,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 218,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            10,
+            0,
+            0
+          ],
+          "text": "1"
+        },
+        {
+          "index": 219,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 220,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "姐姐整天和徐大哥呆在一起，都不陪我玩儿"
+        },
+        {
+          "index": 221,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "……"
+        },
+        {
+          "index": 222,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 223,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "真无聊啊……睡觉去……"
+        },
+        {
+          "index": 224,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            11,
+            1,
+            0
+          ],
+          "text": "1"
+        },
+        {
+          "index": 225,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "王飞霞："
+        },
+        {
+          "index": 226,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "灵哥哥！^_^"
+        },
+        {
+          "index": 227,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            10,
+            0,
+            0
+          ],
+          "text": "1"
+        },
+        {
+          "index": 228,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 229,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "啊……我睡着啦～～不好意思啦～～"
+        },
+        {
+          "index": 230,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            11,
+            1,
+            0
+          ],
+          "text": "1"
+        },
+        {
+          "index": 231,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "王飞霞："
+        },
+        {
+          "index": 232,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "哼！"
+        },
+        {
+          "index": 233,
+          "code": 11010,
+          "name": "EraseScreen",
+          "indent": 1,
+          "parameters": [
+            -1
+          ],
+          "text": ""
+        },
+        {
+          "index": 234,
+          "code": 11030,
+          "name": "TintScreen",
+          "indent": 1,
+          "parameters": [
+            100,
+            100,
+            100,
+            100,
+            0,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 235,
+          "code": 10810,
+          "name": "Teleport",
+          "indent": 1,
+          "parameters": [
+            294,
+            9,
+            7,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 236,
+          "code": 10630,
+          "name": "ChangeSpriteAssociation",
+          "indent": 1,
+          "parameters": [
+            1,
+            0,
+            0
+          ],
+          "text": "hero4"
+        },
+        {
+          "index": 237,
+          "code": 10640,
+          "name": "ChangeActorFace",
+          "indent": 1,
+          "parameters": [
+            1,
+            10
+          ],
+          "text": "1"
+        },
+        {
+          "index": 238,
+          "code": 11310,
+          "name": "PlayerVisibility",
+          "indent": 1,
+          "parameters": [
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 239,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            20,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 240,
+          "code": 11020,
+          "name": "ShowScreen",
+          "indent": 1,
+          "parameters": [
+            -1
+          ],
+          "text": ""
+        },
+        {
+          "index": 241,
+          "code": 10,
+          "name": "END",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 242,
+          "code": 22010,
+          "name": "ElseBranch",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 243,
+          "code": 10210,
+          "name": "ControlSwitches",
+          "indent": 1,
+          "parameters": [
+            0,
+            118,
+            118,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 244,
+          "code": 10660,
+          "name": "ChangeSystemBGM",
+          "indent": 1,
+          "parameters": [
+            0,
+            0,
+            100,
+            100,
+            50
+          ],
+          "text": "懷刃浴血"
+        },
+        {
+          "index": 245,
+          "code": 10710,
+          "name": "EnemyEncounter",
+          "indent": 1,
+          "parameters": [
+            0,
+            199,
+            1,
+            0,
+            1,
+            0,
+            0,
+            1,
+            1
+          ],
+          "text": "sky"
+        },
+        {
+          "index": 246,
+          "code": 20710,
+          "name": "VictoryHandler",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 247,
+          "code": 10490,
+          "name": "FullHeal",
+          "indent": 2,
+          "parameters": [
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 248,
+          "code": 10,
+          "name": "END",
+          "indent": 2,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 249,
+          "code": 20712,
+          "name": "DefeatHandler",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 250,
+          "code": 10490,
+          "name": "FullHeal",
+          "indent": 2,
+          "parameters": [
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 251,
+          "code": 10,
+          "name": "END",
+          "indent": 2,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 252,
+          "code": 20713,
+          "name": "EndBattle",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 253,
+          "code": 10210,
+          "name": "ControlSwitches",
+          "indent": 1,
+          "parameters": [
+            0,
+            118,
+            118,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 254,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            10,
+            1,
+            0
+          ],
+          "text": "li"
+        },
+        {
+          "index": 255,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李忆如："
+        },
+        {
+          "index": 256,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "可恶，休要猖狂！"
+        },
+        {
+          "index": 257,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            43,
+            8,
+            0,
+            0,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23,
+            40,
+            40
+          ],
+          "text": ""
+        },
+        {
+          "index": 258,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 259,
+          "code": 10860,
+          "name": "ChangeEventLocation",
+          "indent": 1,
+          "parameters": [
+            43,
+            0,
+            16,
+            8,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 260,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            43,
+            8,
+            0,
+            0,
+            41,
+            41,
+            23,
+            41,
+            41,
+            23,
+            41,
+            41,
+            40,
+            23,
+            41,
+            41
+          ],
+          "text": ""
+        },
+        {
+          "index": 261,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 262,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            8,
+            1,
+            0
+          ],
+          "text": "li"
+        },
+        {
+          "index": 263,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李忆如："
+        },
+        {
+          "index": 264,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "（为了这片大地，为了千千万万的苍生，爹"
+        },
+        {
+          "index": 265,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "、娘、小灵，原谅我……）"
+        },
+        {
+          "index": 266,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            11,
+            1,
+            0
+          ],
+          "text": "li"
+        },
+        {
+          "index": 267,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李忆如："
+        },
+        {
+          "index": 268,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "（徐大哥，原谅我……）"
+        },
+        {
+          "index": 269,
+          "code": 11040,
+          "name": "FlashScreen",
+          "indent": 1,
+          "parameters": [
+            31,
+            31,
+            31,
+            31,
+            1,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 270,
+          "code": 11040,
+          "name": "FlashScreen",
+          "indent": 1,
+          "parameters": [
+            31,
+            31,
+            31,
+            31,
+            1,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 271,
+          "code": 11040,
+          "name": "FlashScreen",
+          "indent": 1,
+          "parameters": [
+            31,
+            31,
+            31,
+            31,
+            1,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 272,
+          "code": 11040,
+          "name": "FlashScreen",
+          "indent": 1,
+          "parameters": [
+            31,
+            31,
+            31,
+            31,
+            1,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 273,
+          "code": 11030,
+          "name": "TintScreen",
+          "indent": 1,
+          "parameters": [
+            200,
+            200,
+            200,
+            100,
+            5,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 274,
+          "code": 10210,
+          "name": "ControlSwitches",
+          "indent": 1,
+          "parameters": [
+            0,
+            440,
+            440,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 275,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            0,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 276,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 277,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "女娲之力……女娲的后人……啊——"
+        },
+        {
+          "index": 278,
+          "code": 11550,
+          "name": "PlaySound",
+          "indent": 1,
+          "parameters": [
+            100,
+            100,
+            50
+          ],
+          "text": "monster2"
+        },
+        {
+          "index": 279,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 280,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "吼————"
+        },
+        {
+          "index": 281,
+          "code": 10330,
+          "name": "ChangePartyMembers",
+          "indent": 1,
+          "parameters": [
+            1,
+            0,
+            4
+          ],
+          "text": ""
+        },
+        {
+          "index": 282,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            42,
+            8,
+            0,
+            0,
+            34,
+            8,
+            109,
+            111,
+            110,
+            115,
+            116,
+            101,
+            114,
+            50,
+            6
+          ],
+          "text": ""
+        },
+        {
+          "index": 283,
+          "code": 10490,
+          "name": "FullHeal",
+          "indent": 1,
+          "parameters": [
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 284,
+          "code": 10660,
+          "name": "ChangeSystemBGM",
+          "indent": 1,
+          "parameters": [
+            0,
+            0,
+            100,
+            100,
+            50
+          ],
+          "text": "Xian014"
+        },
+        {
+          "index": 285,
+          "code": 10670,
+          "name": "ChangeSystemSFX",
+          "indent": 1,
+          "parameters": [
+            4,
+            100,
+            100,
+            50
+          ],
+          "text": "(OFF)"
+        },
+        {
+          "index": 286,
+          "code": 10710,
+          "name": "EnemyEncounter",
+          "indent": 1,
+          "parameters": [
+            0,
+            200,
+            1,
+            0,
+            0,
+            0,
+            0,
+            1,
+            1
+          ],
+          "text": "space"
+        },
+        {
+          "index": 287,
+          "code": 10670,
+          "name": "ChangeSystemSFX",
+          "indent": 1,
+          "parameters": [
+            4,
+            100,
+            100,
+            50
+          ],
+          "text": "attack2"
+        },
+        {
+          "index": 288,
+          "code": 10490,
+          "name": "FullHeal",
+          "indent": 1,
+          "parameters": [
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 289,
+          "code": 11510,
+          "name": "PlayBGM",
+          "indent": 1,
+          "parameters": [
+            0,
+            100,
+            100,
+            50
+          ],
+          "text": "宿命的三人"
+        },
+        {
+          "index": 290,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            42,
+            8,
+            0,
+            0,
+            40,
+            23,
+            40,
+            23,
+            40,
+            23,
+            40,
+            23
+          ],
+          "text": ""
+        },
+        {
+          "index": 291,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 292,
+          "code": 11040,
+          "name": "FlashScreen",
+          "indent": 1,
+          "parameters": [
+            0,
+            0,
+            0,
+            31,
+            1,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 293,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            42,
+            8,
+            0,
+            0,
+            34,
+            4,
+            82,
+            85,
+            66,
+            89,
+            4
+          ],
+          "text": ""
+        },
+        {
+          "index": 294,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            29,
+            0,
+            28
+          ],
+          "text": ""
+        },
+        {
+          "index": 295,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 296,
+          "code": 10640,
+          "name": "ChangeActorFace",
+          "indent": 1,
+          "parameters": [
+            1,
+            5
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 297,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 298,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            5,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 299,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 300,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "结束了……一切……"
+        },
+        {
+          "index": 301,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 302,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            14
+          ],
+          "text": ""
+        },
+        {
+          "index": 303,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 304,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            5,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 305,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            13,
+            1,
+            0
+          ],
+          "text": "li"
+        },
+        {
+          "index": 306,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "王飞霞："
+        },
+        {
+          "index": 307,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "灵哥哥！你的眼睛……"
+        },
+        {
+          "index": 308,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 309,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            5,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 310,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 311,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "我没事。"
+        },
+        {
+          "index": 312,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            29,
+            29,
+            2,
+            2,
+            2,
+            28,
+            28
+          ],
+          "text": ""
+        },
+        {
+          "index": 313,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            45,
+            8,
+            0,
+            0,
+            14
+          ],
+          "text": ""
+        },
+        {
+          "index": 314,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 315,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            5,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 316,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 317,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "爹，娘。我说了谎……"
+        },
+        {
+          "index": 318,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 319,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 320,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "从一开始，我就在骗你们……"
+        },
+        {
+          "index": 321,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 322,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 323,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "……在我小的时候，姐姐已经不在了……我"
+        },
+        {
+          "index": 324,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "自己修炼回魂仙梦，来回到过去，改变一切"
+        },
+        {
+          "index": 325,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "……"
+        },
+        {
+          "index": 326,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 327,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 328,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "……救我的姐姐……"
+        },
+        {
+          "index": 329,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 330,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 331,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "只是……宿命无法改变……"
+        },
+        {
+          "index": 332,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 333,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 334,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "我失败了……"
+        },
+        {
+          "index": 335,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            14,
+            1,
+            0
+          ],
+          "text": "1"
+        },
+        {
+          "index": 336,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 337,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李逍遥："
+        },
+        {
+          "index": 338,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "……在仙灵岛……爹知道你隐瞒了什么……"
+        },
+        {
+          "index": 339,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "但爹想不到会这样……"
+        },
+        {
+          "index": 340,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 341,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李逍遥："
+        },
+        {
+          "index": 342,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "忆如……呜呜……"
+        },
+        {
+          "index": 343,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            5,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 344,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 345,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 346,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "爹、娘，孩儿该走了，孩儿求你们一件事…"
+        },
+        {
+          "index": 347,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "…"
+        },
+        {
+          "index": 348,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 349,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 350,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "不要告诉在大理的那个“我”所发生的一切"
+        },
+        {
+          "index": 351,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "，让他有希望，让他为改变宿命而战斗！"
+        },
+        {
+          "index": 352,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            14,
+            1,
+            0
+          ],
+          "text": "1"
+        },
+        {
+          "index": 353,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 354,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李逍遥："
+        },
+        {
+          "index": 355,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "小灵……你不必如此……"
+        },
+        {
+          "index": 356,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            5,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 357,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 358,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "不必说了，这是我为自己选择的宿命！"
+        },
+        {
+          "index": 359,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 360,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "爹，这是孩儿最后一次求您了……"
+        },
+        {
+          "index": 361,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            14,
+            1,
+            0
+          ],
+          "text": "1"
+        },
+        {
+          "index": 362,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 363,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李逍遥："
+        },
+        {
+          "index": 364,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "…………"
+        },
+        {
+          "index": 365,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            29,
+            29,
+            0,
+            0,
+            28,
+            28,
+            13
+          ],
+          "text": ""
+        },
+        {
+          "index": 366,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 367,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            45,
+            8,
+            0,
+            0,
+            13
+          ],
+          "text": ""
+        },
+        {
+          "index": 368,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            5,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 369,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 370,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "徐大哥，今后你有何打算？"
+        },
+        {
+          "index": 371,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 372,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            3,
+            1,
+            0
+          ],
+          "text": "xu"
+        },
+        {
+          "index": 373,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "徐南松："
+        },
+        {
+          "index": 374,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "我……就在这里……哪儿也不去了……"
+        },
+        {
+          "index": 375,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 376,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 1,
+          "parameters": [
+            5,
+            0,
+            0
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 377,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 378,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "…………"
+        },
+        {
+          "index": 379,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 380,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            15
+          ],
+          "text": ""
+        },
+        {
+          "index": 381,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 1,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 382,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 1,
+          "parameters": [],
+          "text": "霞妹，我们……走吧……"
+        },
+        {
+          "index": 383,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            10001,
+            8,
+            0,
+            0,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23
+          ],
+          "text": ""
+        },
+        {
+          "index": 384,
+          "code": 11330,
+          "name": "MoveEvent",
+          "indent": 1,
+          "parameters": [
+            45,
+            8,
+            0,
+            0,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23,
+            40,
+            40,
+            23,
+            34,
+            4,
+            82,
+            85,
+            66,
+            89,
+            4
+          ],
+          "text": ""
+        },
+        {
+          "index": 385,
+          "code": 11340,
+          "name": "ProceedWithMovement",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 386,
+          "code": 11310,
+          "name": "PlayerVisibility",
+          "indent": 1,
+          "parameters": [
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 387,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 1,
+          "parameters": [
+            20,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 388,
+          "code": 11030,
+          "name": "TintScreen",
+          "indent": 1,
+          "parameters": [
+            0,
+            0,
+            0,
+            0,
+            50,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 389,
+          "code": 11310,
+          "name": "PlayerVisibility",
+          "indent": 1,
+          "parameters": [
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 390,
+          "code": 10810,
+          "name": "Teleport",
+          "indent": 1,
+          "parameters": [
+            287,
+            9,
+            2,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 391,
+          "code": 10,
+          "name": "END",
+          "indent": 1,
+          "parameters": [],
+          "text": ""
+        },
+        {
+          "index": 392,
+          "code": 22011,
+          "name": "EndBranch",
+          "indent": 0,
+          "parameters": [],
+          "text": ""
+        }
+      ]
+    },
+    {
+      "location": "Map0298/Event0001/Page0001",
+      "map_id": 298,
+      "map_name": "开场",
+      "event_name": "EV0001",
+      "x": 0,
+      "y": 0,
+      "trigger": 3,
+      "condition": {},
+      "commands": [
+        {
+          "index": 1,
+          "code": 11510,
+          "name": "PlayBGM",
+          "indent": 0,
+          "parameters": [
+            0,
+            100,
+            90,
+            50
+          ],
+          "text": "揮劍問情"
+        },
+        {
+          "index": 2,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            40,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 3,
+          "code": 10120,
+          "name": "MessageOptions",
+          "indent": 0,
+          "parameters": [
+            1,
+            1,
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 4,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "\\s[10]    声明：本游戏为私人制作，纯属个人兴趣，仅供学习"
+        },
+        {
+          "index": 5,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "和交流使用，请不要对本游戏作任何篡改及用作其它用途"
+        },
+        {
+          "index": 6,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "，一旦出现任何情况，恕本人不负任何责任，谢谢合作！     \\. \\^     "
+        },
+        {
+          "index": 7,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "    "
+        },
+        {
+          "index": 8,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "\\s[10]本游戏用rpg maker 2003 v1.09a制作， 所用素材大部分"
+        },
+        {
+          "index": 9,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "由网上搜集，其版权归原作者所有。另外游戏中人物头像"
+        },
+        {
+          "index": 10,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "用的是仙剑的人物客串，音乐也是仙剑音乐，版权当然归"
+        },
+        {
+          "index": 11,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "其原作者了。（除剧情外一无所有……）\\. \\^"
+        },
+        {
+          "index": 12,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "\\s[10]由于本人对rm工具认识尚浅，游戏难免出现不尽如人意的"
+        },
+        {
+          "index": 13,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "地方，望海涵！\\. \\^"
+        },
+        {
+          "index": 14,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "\\s[10]好了，不废话了，谨以此游戏，献给仙剑系列的忠实拥护"
+        },
+        {
+          "index": 15,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "者，及rm的忠实拥护者。每个人心中都有属于自己的仙剑"
+        },
+        {
+          "index": 16,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "，那么，为何不试试用简单易懂的rm，来编织自己心中的"
+        },
+        {
+          "index": 17,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "梦呢？ \\. \\^"
+        },
+        {
+          "index": 18,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "        \\s[10]      Holiday于2005年6月  \\| \\^"
+        },
+        {
+          "index": 19,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "                      友情提示："
+        },
+        {
+          "index": 20,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "   按F4可以以小窗口模式运行游戏，看起来舒服一些。"
+        },
+        {
+          "index": 21,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 22,
+          "code": 11010,
+          "name": "EraseScreen",
+          "indent": 0,
+          "parameters": [
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 23,
+          "code": 11110,
+          "name": "ShowPicture",
+          "indent": 0,
+          "parameters": [
+            1,
+            0,
+            160,
+            120,
+            0,
+            100,
+            0,
+            0,
+            100,
+            100,
+            100,
+            100,
+            0,
+            32902180,
+            0,
+            32902300
+          ],
+          "text": "loading"
+        },
+        {
+          "index": 24,
+          "code": 11020,
+          "name": "ShowScreen",
+          "indent": 0,
+          "parameters": [
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 25,
+          "code": 11520,
+          "name": "FadeOutBGM",
+          "indent": 0,
+          "parameters": [
+            7000
+          ],
+          "text": ""
+        },
+        {
+          "index": 26,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            70,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 27,
+          "code": 10120,
+          "name": "MessageOptions",
+          "indent": 0,
+          "parameters": [
+            0,
+            2,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 28,
+          "code": 11010,
+          "name": "EraseScreen",
+          "indent": 0,
+          "parameters": [
+            -1
+          ],
+          "text": ""
+        },
+        {
+          "index": 29,
+          "code": 10330,
+          "name": "ChangePartyMembers",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 30,
+          "code": 10810,
+          "name": "Teleport",
+          "indent": 0,
+          "parameters": [
+            5,
+            24,
+            1,
+            2
+          ],
+          "text": ""
+        }
+      ]
+    },
+    {
+      "location": "Troop0200/Page0001",
+      "event_name": "无相天妖（b）",
+      "condition": {
+        "raw_xml": "<condition>\n       <TroopPageCondition>\n        <flags>\n         <TroopPageCondition_Flags>\n          <switch_a>F</switch_a>\n          <switch_b>F</switch_b>\n          <variable>F</variable>\n          <turn>T</turn>\n          <fatigue>F</fatigue>\n          <enemy_hp>F</enemy_hp>\n          <actor_hp>F</actor_hp>\n          <turn_enemy>F</turn_enemy>\n          <turn_actor>F</turn_actor>\n          <command_actor>F</command_actor>\n         </TroopPageCondition_Flags>\n        </flags>\n        <switch_a_id>1</switch_a_id>\n        <switch_b_id>1</switch_b_id>\n        <variable_id>1</variable_id>\n        <variable_value>0</variable_value>\n        <turn_a>0</turn_a>\n        <turn_b>0</turn_b>\n        <fatigue_min>0</fatigue_min>\n        <fatigue_max>100</fatigue_max>\n        <enemy_id>0</enemy_id>\n        <enemy_hp_min>0</enemy_hp_min>\n        <enemy_hp_max>100</enemy_hp_max>\n        <actor_id>1</actor_id>\n        <actor_hp_min>0</actor_hp_min>\n        <actor_hp_max>100</actor_hp_max>\n        <turn_enemy_id>0</turn_enemy_id>\n        <turn_enemy_a>0</turn_enemy_a>\n        <turn_enemy_b>0</turn_enemy_b>\n        <turn_actor_id>1</turn_actor_id>\n        <turn_actor_a>0</turn_actor_a>\n        <turn_actor_b>0</turn_actor_b>\n        <command_actor_id>1</command_actor_id>\n        <command_id>1</command_id>\n       </TroopPageCondition>\n      </condition>\n      "
+      },
+      "commands": [
+        {
+          "index": 1,
+          "code": 11030,
+          "name": "TintScreen",
+          "indent": 0,
+          "parameters": [
+            100,
+            100,
+            100,
+            100,
+            35,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 2,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 3,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            3,
+            1,
+            0
+          ],
+          "text": "xu"
+        },
+        {
+          "index": 4,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "徐南松："
+        },
+        {
+          "index": 5,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "不——忆如——为什么——"
+        },
+        {
+          "index": 6,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            5,
+            1,
+            0
+          ],
+          "text": "xu"
+        },
+        {
+          "index": 7,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "徐南松："
+        },
+        {
+          "index": 8,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "啊————"
+        },
+        {
+          "index": 9,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 10,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "              "
+        },
+        {
+          "index": 11,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "                徐南松悟得毁天一剑"
+        },
+        {
+          "index": 12,
+          "code": 10440,
+          "name": "ChangeSkills",
+          "indent": 0,
+          "parameters": [
+            1,
+            3,
+            0,
+            0,
+            44
+          ],
+          "text": ""
+        },
+        {
+          "index": 13,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 14,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            4,
+            1,
+            1
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 15,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 16,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "十年——"
+        },
+        {
+          "index": 17,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 18,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 19,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "宿命——"
+        },
+        {
+          "index": 20,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 21,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            5,
+            1,
+            1
+          ],
+          "text": "hu"
+        },
+        {
+          "index": 22,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "李剑灵："
+        },
+        {
+          "index": 23,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "\\c[5]杀————"
+        },
+        {
+          "index": 24,
+          "code": 1005,
+          "name": "CallCommonEvent",
+          "indent": 0,
+          "parameters": [
+            26
+          ],
+          "text": ""
+        },
+        {
+          "index": 25,
+          "code": 10210,
+          "name": "ControlSwitches",
+          "indent": 0,
+          "parameters": [
+            0,
+            441,
+            441,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 26,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            0
+          ],
+          "text": ""
+        }
+      ]
+    },
+    {
+      "location": "Troop0224/Page0002",
+      "event_name": "无相天妖22（b）,天-",
+      "condition": {
+        "raw_xml": "<condition>\n       <TroopPageCondition>\n        <flags>\n         <TroopPageCondition_Flags>\n          <switch_a>F</switch_a>\n          <switch_b>F</switch_b>\n          <variable>F</variable>\n          <turn>F</turn>\n          <fatigue>F</fatigue>\n          <enemy_hp>F</enemy_hp>\n          <actor_hp>F</actor_hp>\n          <turn_enemy>F</turn_enemy>\n          <turn_actor>T</turn_actor>\n          <command_actor>F</command_actor>\n         </TroopPageCondition_Flags>\n        </flags>\n        <switch_a_id>1</switch_a_id>\n        <switch_b_id>1</switch_b_id>\n        <variable_id>1</variable_id>\n        <variable_value>0</variable_value>\n        <turn_a>0</turn_a>\n        <turn_b>2</turn_b>\n        <fatigue_min>0</fatigue_min>\n        <fatigue_max>100</fatigue_max>\n        <enemy_id>0</enemy_id>\n        <enemy_hp_min>0</enemy_hp_min>\n        <enemy_hp_max>100</enemy_hp_max>\n        <actor_id>1</actor_id>\n        <actor_hp_min>0</actor_hp_min>\n        <actor_hp_max>100</actor_hp_max>\n        <turn_enemy_id>0</turn_enemy_id>\n        <turn_enemy_a>0</turn_enemy_a>\n        <turn_enemy_b>0</turn_enemy_b>\n        <turn_actor_id>2</turn_actor_id>\n        <turn_actor_a>0</turn_actor_a>\n        <turn_actor_b>3</turn_actor_b>\n        <command_actor_id>1</command_actor_id>\n        <command_id>1</command_id>\n       </TroopPageCondition>\n      </condition>\n      "
+      },
+      "commands": [
+        {
+          "index": 1,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            13,
+            1,
+            0
+          ],
+          "text": "li"
+        },
+        {
+          "index": 2,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "王飞霞："
+        },
+        {
+          "index": 3,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "命运……掌握在……我的手中……"
+        },
+        {
+          "index": 4,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "王飞霞："
+        },
+        {
+          "index": 5,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "那块玉……在发光！"
+        },
+        {
+          "index": 6,
+          "code": 11040,
+          "name": "FlashScreen",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            31,
+            31,
+            1,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 7,
+          "code": 11040,
+          "name": "FlashScreen",
+          "indent": 0,
+          "parameters": [
+            0,
+            0,
+            31,
+            31,
+            1,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 8,
+          "code": 11030,
+          "name": "TintScreen",
+          "indent": 0,
+          "parameters": [
+            100,
+            100,
+            200,
+            100,
+            30,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 9,
+          "code": 10130,
+          "name": "ChangeFaceGraphic",
+          "indent": 0,
+          "parameters": [
+            0,
+            1,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 10,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 11,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "男子声："
+        },
+        {
+          "index": 12,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "没有晚，还来得及……"
+        },
+        {
+          "index": 13,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 14,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "男子："
+        },
+        {
+          "index": 15,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖！哼！"
+        },
+        {
+          "index": 16,
+          "code": 13260,
+          "name": "ShowBattleAnimation_B",
+          "indent": 0,
+          "parameters": [
+            193,
+            -1,
+            1,
+            0,
+            -1
+          ],
+          "text": ""
+        },
+        {
+          "index": 17,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 18,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "不可能，怎会有这么强大的力量～～"
+        },
+        {
+          "index": 19,
+          "code": 11550,
+          "name": "PlaySound",
+          "indent": 0,
+          "parameters": [
+            100,
+            100,
+            50
+          ],
+          "text": "monster2"
+        },
+        {
+          "index": 20,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "无相天妖："
+        },
+        {
+          "index": 21,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "吼——"
+        },
+        {
+          "index": 22,
+          "code": 13150,
+          "name": "ShowHiddenMonster",
+          "indent": 0,
+          "parameters": [
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 23,
+          "code": 13130,
+          "name": "ChangeMonsterCondition",
+          "indent": 0,
+          "parameters": [
+            1,
+            0,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 24,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            5,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 25,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "男子："
+        },
+        {
+          "index": 26,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "……只是打回妖形而已吗……可惜我魂魄尚不完整，无法"
+        },
+        {
+          "index": 27,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "使出更大的力量……"
+        },
+        {
+          "index": 28,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 29,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "女子声："
+        },
+        {
+          "index": 30,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "……已经足够了……他们能行的……因为……"
+        },
+        {
+          "index": 31,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 32,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "女子："
+        },
+        {
+          "index": 33,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "……我们已经开始消失了……"
+        },
+        {
+          "index": 34,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 35,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "女子："
+        },
+        {
+          "index": 36,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "……魂魄还没有散去，还有救的……"
+        },
+        {
+          "index": 37,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 38,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "女子："
+        },
+        {
+          "index": 39,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "……最后能够帮他们的了……"
+        },
+        {
+          "index": 40,
+          "code": 13260,
+          "name": "ShowBattleAnimation_B",
+          "indent": 0,
+          "parameters": [
+            82,
+            -1,
+            1,
+            1,
+            2
+          ],
+          "text": ""
+        },
+        {
+          "index": 41,
+          "code": 10490,
+          "name": "FullHeal",
+          "indent": 0,
+          "parameters": [
+            0,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 42,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 43,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "男子："
+        },
+        {
+          "index": 44,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "……嗯……消失了……我们永远在一起……"
+        },
+        {
+          "index": 45,
+          "code": 11410,
+          "name": "Wait",
+          "indent": 0,
+          "parameters": [
+            10,
+            0
+          ],
+          "text": ""
+        },
+        {
+          "index": 46,
+          "code": 10110,
+          "name": "ShowMessage",
+          "indent": 0,
+          "parameters": [],
+          "text": "女子："
+        },
+        {
+          "index": 47,
+          "code": 20110,
+          "name": "ShowMessage_2",
+          "indent": 0,
+          "parameters": [],
+          "text": "永远不分开……"
+        },
+        {
+          "index": 48,
+          "code": 11030,
+          "name": "TintScreen",
+          "indent": 0,
+          "parameters": [
+            100,
+            100,
+            100,
+            100,
+            30,
+            1
+          ],
+          "text": ""
+        },
+        {
+          "index": 49,
+          "code": 10210,
+          "name": "ControlSwitches",
+          "indent": 0,
+          "parameters": [
+            0,
+            441,
+            441,
+            0
+          ],
+          "text": ""
+        }
+      ]
+    }
+  ]
+}

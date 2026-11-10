@@ -1,0 +1,8 @@
+/work/
+__pycache__/
+*.pyc
+/prototype/user_data/
+/prototype/build/
+/prototype/dist/
+/prototype/work/
+*.spec

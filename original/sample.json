@@ -1,0 +1,37 @@
+{
+  "received_date": "2026-11-10",
+  "source": {
+    "provided_by": "repository user",
+    "reported_origin": "百度贴吧",
+    "post_url": null
+  },
+  "archive": {
+    "file": "仙剑奇侠传宿命篇.rar",
+    "bytes": 115295612,
+    "sha256": "2716a30a83b78856424b7e34fb17c75fd9c1b0c241746e480b881fef5831729e",
+    "storage": "Original archive retained locally; expanded files stored in Git",
+    "uploaded": false
+  },
+  "contents": {
+    "files": 1176,
+    "uncompressed_bytes": 125623607,
+    "extensions": {
+      ".exe": 1,
+      ".ini": 1,
+      ".ldb": 1,
+      ".lmt": 1,
+      ".lmu": 291,
+      ".mp3": 65,
+      ".png": 536,
+      ".wav": 275,
+      ".xyz": 5
+    },
+    "repository_root": "original/game"
+  },
+  "verification": {
+    "archive_payloads_match_provided_directory": true,
+    "copied_archive_sha256_matches": true,
+    "game_executed": false,
+    "upload_mode": "Expanded original files; byte-preserving Git attributes"
+  }
+}
