@@ -11,7 +11,7 @@ holiday 天问剧本：https://tieba.baidu.com/p/6534400092?&share=9105&fr=share
 - [《宿命篇》首轮逆向记录](docs/reverse-engineering.md)：启动链、事件规模与隐藏结局条件线索
 - [数据、事件与对话索引](research/suming/README.md)
 - [《天问 · 回响之门》可玩原型](prototype/README.md)：探索、战斗、回溯、分支与存读档
-- [原作者剧本来源与整理状态](docs/tianwen/README.md)
+- [《天问篇》现存剧本与缺章恢复](docs/tianwen/README.md)：用户贴文、推定恢复稿、场景与人物索引
 - [续作设计与 UE 移植方向](docs/tianwen/game-design.md)
 
-当前试作使用独立运行程序验证规则；目标引擎仍为 Unreal Engine 5.4。原作者剧本正文尚未取得，原型剧情为新增实验场景。
+当前试作使用独立运行程序验证规则；目标引擎仍为 Unreal Engine 5.4。用户已提供残缺剧本，现存文本与新增的缺章恢复稿分别保存；原型剧情仍为新增实验场景，尚未接入本轮剧本。

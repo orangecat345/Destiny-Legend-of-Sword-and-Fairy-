@@ -1,0 +1,802 @@
+{
+  "schema_version": 1,
+  "title": "开坑，天问篇",
+  "received_date": "2026-11-10",
+  "source_type": "user_supplied_paste",
+  "source_path": "source/user-paste-2026-11-10.txt",
+  "source_sha256": "e9bf7cabb88a930c598664ef00d9a5170b1bae4d00e8233f419d83f96845c09a",
+  "source_line_count": 201,
+  "source_completeness": "partial",
+  "canonical_url": "https://tieba.baidu.com/p/6534400092",
+  "browser_verified_sections": [
+    "TW-S0",
+    "TW-F5"
+  ],
+  "browser_displayed_author": "灵域桃源2",
+  "author_identity_link_to_holiday": "user_attributed_not_independently_proven",
+  "missing_cause": "unknown_user_suspects_baidu_cleanup",
+  "web_recovered_missing_chapters": false,
+  "reconstruction_path": "reconstruction.md",
+  "reading_draft_path": "reading-draft.md",
+  "reconstruction_status": "new_candidate_text_not_recovered_original",
+  "paragraphs": [
+    {
+      "id": "U002",
+      "source_line": 2
+    },
+    {
+      "id": "U004",
+      "source_line": 4
+    },
+    {
+      "id": "U005",
+      "source_line": 5
+    },
+    {
+      "id": "U006a",
+      "source_line": 6
+    },
+    {
+      "id": "U027a",
+      "source_line": 27
+    },
+    {
+      "id": "U006b",
+      "source_line": 6
+    },
+    {
+      "id": "U007",
+      "source_line": 7
+    },
+    {
+      "id": "U008",
+      "source_line": 8
+    },
+    {
+      "id": "U009",
+      "source_line": 9
+    },
+    {
+      "id": "U010",
+      "source_line": 10
+    },
+    {
+      "id": "U011",
+      "source_line": 11
+    },
+    {
+      "id": "U012",
+      "source_line": 12
+    },
+    {
+      "id": "U013",
+      "source_line": 13
+    },
+    {
+      "id": "U014",
+      "source_line": 14
+    },
+    {
+      "id": "U015",
+      "source_line": 15
+    },
+    {
+      "id": "U016",
+      "source_line": 16
+    },
+    {
+      "id": "U017",
+      "source_line": 17
+    },
+    {
+      "id": "U018",
+      "source_line": 18
+    },
+    {
+      "id": "U019",
+      "source_line": 19
+    },
+    {
+      "id": "U020",
+      "source_line": 20
+    },
+    {
+      "id": "U021",
+      "source_line": 21
+    },
+    {
+      "id": "U022",
+      "source_line": 22
+    },
+    {
+      "id": "U023",
+      "source_line": 23
+    },
+    {
+      "id": "U024",
+      "source_line": 24
+    },
+    {
+      "id": "U028",
+      "source_line": 28
+    },
+    {
+      "id": "U029",
+      "source_line": 29
+    },
+    {
+      "id": "U030",
+      "source_line": 30
+    },
+    {
+      "id": "U031",
+      "source_line": 31
+    },
+    {
+      "id": "U032",
+      "source_line": 32
+    },
+    {
+      "id": "U033",
+      "source_line": 33
+    },
+    {
+      "id": "U034",
+      "source_line": 34
+    },
+    {
+      "id": "U035",
+      "source_line": 35
+    },
+    {
+      "id": "U036",
+      "source_line": 36
+    },
+    {
+      "id": "U037",
+      "source_line": 37
+    },
+    {
+      "id": "U038",
+      "source_line": 38
+    },
+    {
+      "id": "U039",
+      "source_line": 39
+    },
+    {
+      "id": "U040",
+      "source_line": 40
+    },
+    {
+      "id": "U041",
+      "source_line": 41
+    },
+    {
+      "id": "U042",
+      "source_line": 42
+    },
+    {
+      "id": "U043",
+      "source_line": 43
+    },
+    {
+      "id": "U044",
+      "source_line": 44
+    },
+    {
+      "id": "U045",
+      "source_line": 45
+    },
+    {
+      "id": "U046",
+      "source_line": 46
+    },
+    {
+      "id": "U047",
+      "source_line": 47
+    },
+    {
+      "id": "U048",
+      "source_line": 48
+    },
+    {
+      "id": "U049",
+      "source_line": 49
+    },
+    {
+      "id": "U050",
+      "source_line": 50
+    },
+    {
+      "id": "U051",
+      "source_line": 51
+    },
+    {
+      "id": "U052",
+      "source_line": 52
+    },
+    {
+      "id": "U053",
+      "source_line": 53
+    },
+    {
+      "id": "U054",
+      "source_line": 54
+    },
+    {
+      "id": "U055",
+      "source_line": 55
+    },
+    {
+      "id": "U056",
+      "source_line": 56
+    },
+    {
+      "id": "U057",
+      "source_line": 57
+    },
+    {
+      "id": "U058",
+      "source_line": 58
+    },
+    {
+      "id": "U059",
+      "source_line": 59
+    },
+    {
+      "id": "U060",
+      "source_line": 60
+    },
+    {
+      "id": "U061",
+      "source_line": 61
+    },
+    {
+      "id": "U062",
+      "source_line": 62
+    },
+    {
+      "id": "U063",
+      "source_line": 63
+    },
+    {
+      "id": "U064",
+      "source_line": 64
+    },
+    {
+      "id": "U065",
+      "source_line": 65
+    },
+    {
+      "id": "U069",
+      "source_line": 69
+    },
+    {
+      "id": "U070",
+      "source_line": 70
+    },
+    {
+      "id": "U071",
+      "source_line": 71
+    },
+    {
+      "id": "U072",
+      "source_line": 72
+    },
+    {
+      "id": "U073",
+      "source_line": 73
+    },
+    {
+      "id": "U074",
+      "source_line": 74
+    },
+    {
+      "id": "U075",
+      "source_line": 75
+    },
+    {
+      "id": "U076",
+      "source_line": 76
+    },
+    {
+      "id": "U077",
+      "source_line": 77
+    },
+    {
+      "id": "U078",
+      "source_line": 78
+    },
+    {
+      "id": "U079",
+      "source_line": 79
+    },
+    {
+      "id": "U080",
+      "source_line": 80
+    },
+    {
+      "id": "U081",
+      "source_line": 81
+    },
+    {
+      "id": "U082",
+      "source_line": 82
+    },
+    {
+      "id": "U083",
+      "source_line": 83
+    },
+    {
+      "id": "U084",
+      "source_line": 84
+    },
+    {
+      "id": "U085",
+      "source_line": 85
+    },
+    {
+      "id": "U086",
+      "source_line": 86
+    },
+    {
+      "id": "U087",
+      "source_line": 87
+    },
+    {
+      "id": "U088",
+      "source_line": 88
+    },
+    {
+      "id": "U089",
+      "source_line": 89
+    },
+    {
+      "id": "U090",
+      "source_line": 90
+    },
+    {
+      "id": "U091",
+      "source_line": 91
+    },
+    {
+      "id": "U092",
+      "source_line": 92
+    },
+    {
+      "id": "U093",
+      "source_line": 93
+    },
+    {
+      "id": "U094",
+      "source_line": 94
+    },
+    {
+      "id": "U097",
+      "source_line": 97
+    },
+    {
+      "id": "U098",
+      "source_line": 98
+    },
+    {
+      "id": "U099",
+      "source_line": 99
+    },
+    {
+      "id": "U100",
+      "source_line": 100
+    },
+    {
+      "id": "U101",
+      "source_line": 101
+    },
+    {
+      "id": "U102",
+      "source_line": 102
+    },
+    {
+      "id": "U103",
+      "source_line": 103
+    },
+    {
+      "id": "U104",
+      "source_line": 104
+    },
+    {
+      "id": "U105",
+      "source_line": 105
+    },
+    {
+      "id": "U106",
+      "source_line": 106
+    },
+    {
+      "id": "U107",
+      "source_line": 107
+    },
+    {
+      "id": "U108",
+      "source_line": 108
+    },
+    {
+      "id": "U109",
+      "source_line": 109
+    },
+    {
+      "id": "U110",
+      "source_line": 110
+    },
+    {
+      "id": "U111",
+      "source_line": 111
+    },
+    {
+      "id": "U112",
+      "source_line": 112
+    },
+    {
+      "id": "U113",
+      "source_line": 113
+    },
+    {
+      "id": "U114",
+      "source_line": 114
+    },
+    {
+      "id": "U115",
+      "source_line": 115
+    },
+    {
+      "id": "U116",
+      "source_line": 116
+    },
+    {
+      "id": "U117",
+      "source_line": 117
+    },
+    {
+      "id": "U118",
+      "source_line": 118
+    },
+    {
+      "id": "U119",
+      "source_line": 119
+    },
+    {
+      "id": "U120",
+      "source_line": 120
+    },
+    {
+      "id": "U121",
+      "source_line": 121
+    },
+    {
+      "id": "U125",
+      "source_line": 125
+    },
+    {
+      "id": "U126",
+      "source_line": 126
+    },
+    {
+      "id": "U127",
+      "source_line": 127
+    },
+    {
+      "id": "U128",
+      "source_line": 128
+    },
+    {
+      "id": "U129",
+      "source_line": 129
+    },
+    {
+      "id": "U130",
+      "source_line": 130
+    },
+    {
+      "id": "U131",
+      "source_line": 131
+    },
+    {
+      "id": "U132",
+      "source_line": 132
+    },
+    {
+      "id": "U133",
+      "source_line": 133
+    },
+    {
+      "id": "U134",
+      "source_line": 134
+    },
+    {
+      "id": "U135",
+      "source_line": 135
+    },
+    {
+      "id": "U136",
+      "source_line": 136
+    },
+    {
+      "id": "U137",
+      "source_line": 137
+    },
+    {
+      "id": "U138",
+      "source_line": 138
+    },
+    {
+      "id": "U139",
+      "source_line": 139
+    },
+    {
+      "id": "U140",
+      "source_line": 140
+    },
+    {
+      "id": "U141",
+      "source_line": 141
+    },
+    {
+      "id": "U142",
+      "source_line": 142
+    },
+    {
+      "id": "U143",
+      "source_line": 143
+    },
+    {
+      "id": "U144",
+      "source_line": 144
+    },
+    {
+      "id": "U145",
+      "source_line": 145
+    },
+    {
+      "id": "U146",
+      "source_line": 146
+    },
+    {
+      "id": "U147",
+      "source_line": 147
+    },
+    {
+      "id": "U148",
+      "source_line": 148
+    },
+    {
+      "id": "U149",
+      "source_line": 149
+    },
+    {
+      "id": "U153",
+      "source_line": 153
+    },
+    {
+      "id": "U154",
+      "source_line": 154
+    },
+    {
+      "id": "U155",
+      "source_line": 155
+    },
+    {
+      "id": "U156",
+      "source_line": 156
+    },
+    {
+      "id": "U157",
+      "source_line": 157
+    },
+    {
+      "id": "U158",
+      "source_line": 158
+    },
+    {
+      "id": "U159",
+      "source_line": 159
+    },
+    {
+      "id": "U160",
+      "source_line": 160
+    },
+    {
+      "id": "U161",
+      "source_line": 161
+    },
+    {
+      "id": "U162",
+      "source_line": 162
+    },
+    {
+      "id": "U163",
+      "source_line": 163
+    },
+    {
+      "id": "U164",
+      "source_line": 164
+    },
+    {
+      "id": "U165",
+      "source_line": 165
+    },
+    {
+      "id": "U166",
+      "source_line": 166
+    },
+    {
+      "id": "U167",
+      "source_line": 167
+    },
+    {
+      "id": "U168",
+      "source_line": 168
+    },
+    {
+      "id": "U169",
+      "source_line": 169
+    },
+    {
+      "id": "U170",
+      "source_line": 170
+    },
+    {
+      "id": "U171",
+      "source_line": 171
+    },
+    {
+      "id": "U172",
+      "source_line": 172
+    },
+    {
+      "id": "U173",
+      "source_line": 173
+    },
+    {
+      "id": "U174",
+      "source_line": 174
+    },
+    {
+      "id": "U175",
+      "source_line": 175
+    },
+    {
+      "id": "U176",
+      "source_line": 176
+    },
+    {
+      "id": "U177",
+      "source_line": 177
+    },
+    {
+      "id": "U178",
+      "source_line": 178
+    },
+    {
+      "id": "U179",
+      "source_line": 179
+    },
+    {
+      "id": "U180",
+      "source_line": 180
+    },
+    {
+      "id": "U181",
+      "source_line": 181
+    },
+    {
+      "id": "U182",
+      "source_line": 182
+    },
+    {
+      "id": "U183",
+      "source_line": 183
+    },
+    {
+      "id": "U184",
+      "source_line": 184
+    },
+    {
+      "id": "U185",
+      "source_line": 185
+    },
+    {
+      "id": "U186",
+      "source_line": 186
+    },
+    {
+      "id": "U190",
+      "source_line": 190
+    },
+    {
+      "id": "U191",
+      "source_line": 191
+    },
+    {
+      "id": "U192",
+      "source_line": 192
+    },
+    {
+      "id": "U193",
+      "source_line": 193
+    },
+    {
+      "id": "U194",
+      "source_line": 194
+    },
+    {
+      "id": "U195",
+      "source_line": 195
+    },
+    {
+      "id": "U196",
+      "source_line": 196
+    },
+    {
+      "id": "U197",
+      "source_line": 197
+    },
+    {
+      "id": "U198",
+      "source_line": 198
+    },
+    {
+      "id": "U199",
+      "source_line": 199
+    },
+    {
+      "id": "U200",
+      "source_line": 200
+    },
+    {
+      "id": "U201",
+      "source_line": 201
+    }
+  ],
+  "sections": [
+    {
+      "id": "TW-S0",
+      "title": "天问剧情（序）",
+      "provenance": "首帖；浏览器核实发布日期 2020-03-07"
+    },
+    {
+      "id": "TW-F5",
+      "title": "无章名残段：黑客栈至蜀山和谈",
+      "provenance": "用户贴文标记第 5 楼，2020-03-07；浏览器读到相同可见正文"
+    },
+    {
+      "id": "TW-C3",
+      "title": "天问剧情（三）",
+      "provenance": "用户贴文标记第 7 楼，2020-03-08"
+    },
+    {
+      "id": "TW-C6",
+      "title": "天问剧情（六）",
+      "provenance": "用户贴文标记第 10 楼，2020-03-09"
+    },
+    {
+      "id": "TW-C7",
+      "title": "天问剧情（七）",
+      "provenance": "用户贴文标记第 15 楼，2020-03-11"
+    },
+    {
+      "id": "TW-C8",
+      "title": "天问剧情（八）",
+      "provenance": "用户贴文标记第 16 楼，2020-03-11"
+    },
+    {
+      "id": "TW-C9",
+      "title": "天问剧情（九）",
+      "provenance": "用户贴文标记第 17 楼，2020-03-12"
+    },
+    {
+      "id": "TW-END",
+      "title": "后记",
+      "provenance": "用户贴文未保留独立楼层或日期标记"
+    }
+  ]
+}
